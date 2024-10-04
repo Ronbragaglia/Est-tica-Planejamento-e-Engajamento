@@ -12,7 +12,7 @@ Tecnologias Usadas:
 
 Ao implementar a estratégia de conteúdo, espera-se alcançar os seguintes resultados:
 
-- Aumento no Engajamento**: Espera-se que o conteúdo criativo e variado atraia mais interações, como curtidas, comentários e compartilhamentos.
+- Aumento no Engajamento: Espera-se que o conteúdo criativo e variado atraia mais interações, como curtidas, comentários e compartilhamentos.
 - Crescimento de Seguidores**: Com postagens regulares e interessantes, a meta é aumentar o número de seguidores da página.
 - Melhor Compreensão do Público-Alvo**: As postagens interativas e as enquetes realizadas nos Stories proporcionarão insights valiosos sobre os interesses e preferências do público.
 
