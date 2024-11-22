@@ -22,3 +22,4 @@ Data	Postagem	Stories
 2024-10-05	Dia 2: 2 - Antes e depois	Dia 2: Enquete
 2024-10-06	Dia 3: 3 - Tutorial	Dia 3: FAQ
 
+![image](https://github.com/user-attachments/assets/87366c2a-8504-4dfe-a9b5-d930b9fae426)
