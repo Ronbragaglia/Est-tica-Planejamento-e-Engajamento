@@ -1,25 +1,42 @@
- Estética-Planejamento-e-Engajamento
-Este projeto consiste em um calendário de conteúdo para uma página de estética no Instagram, visando aumentar o engajamento e seguidores por meio de postagens criativas e campanhas de Stories.
+# Estética — Planejamento e Engajamento
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white) ![Topic](https://img.shields.io/badge/Topic-social-media-green) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-Tecnologias Usadas:
+## Descrição
 
-- Python: Linguagem de programação usada para criar o calendário de conteúdo.
-- Pandas: Biblioteca utilizada para manipulação e análise de dados, permitindo a criação do DataFrame para o calendário.
-- Google Colab: Plataforma utilizada para executar o código Python e visualizar o calendário de conteúdo.
+Calendário de conteúdo para Instagram de clínica estética com foco em aumentar engajamento e seguidores, incluindo planejamento de Stories e posts criativos.
 
- Resultados:
+## Funcionalidades
 
-Ao implementar a estratégia de conteúdo, espera-se alcançar os seguintes resultados:
+- Calendário editorial mensal para Instagram
+- Planejamento de Stories com enquetes e CTAs
+- Estratégias de conteúdo para aumentar seguidores
+- Templates de posts criativos para clínicas estéticas
+- Métricas de engajamento e acompanhamento de resultados
 
-- Aumento no Engajamento: Espera-se que o conteúdo criativo e variado atraia mais interações, como curtidas, comentários e compartilhamentos.
-- Crescimento de Seguidores**: Com postagens regulares e interessantes, a meta é aumentar o número de seguidores da página.
-- Melhor Compreensão do Público-Alvo**: As postagens interativas e as enquetes realizadas nos Stories proporcionarão insights valiosos sobre os interesses e preferências do público.
+## Stack Tecnológico
 
-Exemplo de Saída
-Data	Postagem	Stories
-2024-10-04	Dia 1: 1 - Dicas de beleza	Dia 1: Bastidores
-2024-10-05	Dia 2: 2 - Antes e depois	Dia 2: Enquete
-2024-10-06	Dia 3: 3 - Tutorial	Dia 3: FAQ
+| Tecnologia | Descrição |
+|---|---|
+| Planejamento Estratégico | Calendário editorial |
+| Instagram | Plataforma principal |
+| Canva / Design | Criação visual |
 
-![image](https://github.com/user-attachments/assets/87366c2a-8504-4dfe-a9b5-d930b9fae426)
+## Como Usar
+
+1. Acesse o calendário editorial no arquivo principal
+2. Adapte os temas e datas para o seu contexto
+3. Use os templates de legenda para cada post
+
+## Estrutura de Pastas
+
+```
+├── calendario/
+├── templates/
+├── estrategia.md
+└── README.md
+```
+
+---
+
+> Feito com ❤️ por Rone Bragaglia · ML Engineer & Fundador CobrançaAuto
